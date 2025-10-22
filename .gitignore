@@ -1,0 +1,28 @@
+# ----------------------------------------------------------------------
+# Project and Environment Files
+# ----------------------------------------------------------------------
+# Virtual environment folder
+venv/
+
+# PyCharm, VSCode, or other IDE configuration files
+.vscode/
+
+# Python compiled files
+_pycache_/
+*.pyc
+
+# ----------------------------------------------------------------------
+# DATA & OUTPUT (CRITICAL for Instacart MBA)
+# ----------------------------------------------------------------------
+# Instacart data files (do NOT commit gigabytes of data)
+data/
+
+# Generated output files (e.g., final rules CSV, plots)
+# You can generate these from your code
+*.csv
+*.xlsx
+*.png
+*.jpg
+
+# Jupyter Notebook temporary files
+.ipynb_checkpoints
