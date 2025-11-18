@@ -99,10 +99,7 @@ pip install pandas numpy mlxtend plotnine jupyter openpyxl
 ---
 
 
-## 👨‍💻 Author & Contact Information
-
-**🧠 Project Developed By:**  
-**Tanishka Mukhi**  
+## 👨‍💻 Author & Contact Information  
 
 📧 **Email:**(mailto:mayanksunny402@gmail.com)  
 💼 **LinkedIn:** (https://www.linkedin.com/in/mayank-bodgujar-b89497319?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BQBVx%2FSNPSPuJ2Xu%2FlYPJIA%3D%3D) 
